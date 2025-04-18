@@ -1,0 +1,23 @@
+{
+    "name": "sit737-microservice",
+    "version": "1.0.0",
+    "description": "Node.js microservice for SIT737 Task 5.2D",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.21.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/srii03/sit737-2025-prac5d.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/srii03/sit737-2025-prac5d/issues"
+    },
+    "homepage": "https://github.com/srii03/sit737-2025-prac5d#readme"
+}
